@@ -16,7 +16,8 @@ The application is _almost_ **production ready**.
 ---
 
 ## To start setting up the project
-
+Check the video for more understanding
+https://youtu.be/jiAqou7Dkpk
 
 Step 1: Put your credentials in the .env file.
 
